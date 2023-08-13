@@ -1,0 +1,2 @@
+# OddAndEvenFinder
+ Tekmi ciftmi projesi
